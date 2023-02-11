@@ -15,7 +15,7 @@ let imagenAd =
 const N_VIDEOS = 5 //MAX 10
 
 const MY_AD = {
-	isActive: false,
+	isActive: true,
 	type: 2, // //defaultAd => 1 //captionAd => 2 //linksGroupAd => 3
 	data: {
 		ctn: MensajeAd,
